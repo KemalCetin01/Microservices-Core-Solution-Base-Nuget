@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MS.Services.Core.Base</id>
+    <version>1.0.0</version>
+    <authors>Microservices Kemal Çetin</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net9.0">
+        <dependency id="AspNetCore.HealthChecks.UI.Client" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="MediatR" version="12.4.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Mvc.Core" version="2.3.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\09373118\Source\Repos\MS.Services.Core\Base\src\MS.Services.Core.Base\bin\Debug\net9.0\MS.Services.Core.Base.dll" target="lib\net9.0\MS.Services.Core.Base.dll" />
+  </files>
+</package>

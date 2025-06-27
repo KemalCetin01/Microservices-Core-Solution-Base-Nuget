@@ -1,0 +1,12 @@
+C:\Users\09373118\Source\Repos\MS.Services.Core\Base\src\MS.Services.Core.Base\bin\Debug\net9.0\MS.Services.Core.Base.deps.json
+C:\Users\09373118\Source\Repos\MS.Services.Core\Base\src\MS.Services.Core.Base\bin\Debug\net9.0\MS.Services.Core.Base.dll
+C:\Users\09373118\Source\Repos\MS.Services.Core\Base\src\MS.Services.Core.Base\bin\Debug\net9.0\MS.Services.Core.Base.pdb
+C:\Users\09373118\Source\Repos\MS.Services.Core\Base\src\MS.Services.Core.Base\obj\Debug\net9.0\MS.Services.Core.Base.csproj.AssemblyReference.cache
+C:\Users\09373118\Source\Repos\MS.Services.Core\Base\src\MS.Services.Core.Base\obj\Debug\net9.0\MS.Services.Core.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\09373118\Source\Repos\MS.Services.Core\Base\src\MS.Services.Core.Base\obj\Debug\net9.0\MS.Services.Core.Base.AssemblyInfoInputs.cache
+C:\Users\09373118\Source\Repos\MS.Services.Core\Base\src\MS.Services.Core.Base\obj\Debug\net9.0\MS.Services.Core.Base.AssemblyInfo.cs
+C:\Users\09373118\Source\Repos\MS.Services.Core\Base\src\MS.Services.Core.Base\obj\Debug\net9.0\MS.Services.Core.Base.csproj.CoreCompileInputs.cache
+C:\Users\09373118\Source\Repos\MS.Services.Core\Base\src\MS.Services.Core.Base\obj\Debug\net9.0\MS.Services.Core.Base.dll
+C:\Users\09373118\Source\Repos\MS.Services.Core\Base\src\MS.Services.Core.Base\obj\Debug\net9.0\refint\MS.Services.Core.Base.dll
+C:\Users\09373118\Source\Repos\MS.Services.Core\Base\src\MS.Services.Core.Base\obj\Debug\net9.0\MS.Services.Core.Base.pdb
+C:\Users\09373118\Source\Repos\MS.Services.Core\Base\src\MS.Services.Core.Base\obj\Debug\net9.0\ref\MS.Services.Core.Base.dll
